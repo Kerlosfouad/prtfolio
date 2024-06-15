@@ -1,2 +1,2 @@
-# prtfolio
+# protfolio
 this is first project 
